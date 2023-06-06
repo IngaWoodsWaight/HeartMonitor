@@ -3,6 +3,7 @@
 // TikTok - @ingawoods.waight
 // Instagram - @ingawoods.waight
 
+//attempting to see if this commit works from vscode
 
 // Define the pins for the pulse sensor and LEDs
 int pulsePin = A0;
